@@ -1,11 +1,22 @@
 **Single-cell RNAseq Profiling of the Fallopian Tube**
 
+CxG Collection: https://cellxgene.cziscience.com/collections/fc77d2ae-247d-44d7-aa24-3f4859254c2c
+
+Group: Hammond
+
+
 **Objective:** 
 To explore the cellular heterogeneity of the healthy fallopian tube (FT) and its alterations in disease states, thereby informing potential therapeutic strategies for reproductive organ pathologies.
 
 **Background:** 
 - FT is pivotal for fertilization, compromised in infertility and ovarian cancer.
 - Segments: Fimbriae (oocyte capture), Ampulla (fertilization & embryo development), Isthmus (sperm reservoir & embryo transport).
+- CxG Explorer - Examining tissue
+  - <img width="1792" alt="image" src="https://github.com/MaximilianLombardo/hamondCxGDemo/assets/25663501/22169568-5662-4d08-a754-cbf40da5238b">
+- Augment knowledge of tissue with information from CellGuides
+  - <img width="1792" alt="image" src="https://github.com/MaximilianLombardo/hamondCxGDemo/assets/25663501/b21e7048-452b-4f82-9109-b240a49816d4">
+
+
 
 **Cellular Landscape of Healthy FT:** 
 - Epithelial Cells: 
