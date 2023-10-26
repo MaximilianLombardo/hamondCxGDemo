@@ -19,12 +19,34 @@ To explore the cellular heterogeneity of the healthy fallopian tube (FT) and its
 
 
 **Cellular Landscape of Healthy FT:** 
+
+<img width="1792" alt="image" src="https://github.com/MaximilianLombardo/hamondCxGDemo/assets/25663501/b0431b64-c1ad-4942-9547-cd3d5442ea3b">
+
+
 - Epithelial Cells: 
   - Ciliated cells (FOXJ1+/CAPS+): Movement of gametes and embryos.
+    - We can visualize individual marker genes with CxG explorer
+    - <img width="1792" alt="image" src="https://github.com/MaximilianLombardo/hamondCxGDemo/assets/25663501/e0022809-4b1e-43d5-931a-e84768ec3e77">
+    - We also visualize multiple genes, or gene sets at the same time with the gene sets function:
+      - <img width="1789" alt="image" src="https://github.com/MaximilianLombardo/hamondCxGDemo/assets/25663501/c2ec2ed8-8353-4263-9cdc-df15fb159ba5">
   - Secretory cells (PAX8+/KRT7+): Vital for fertilization and early embryo development.
+    - <img width="1792" alt="image" src="https://github.com/MaximilianLombardo/hamondCxGDemo/assets/25663501/d82bf4e3-d1b8-45f9-af6d-65531f47a39d">
   - Peg cells (EPCAM+/CD44+/ITGA6+): Potential progenitor properties.
+    - <img width="1792" alt="image" src="https://github.com/MaximilianLombardo/hamondCxGDemo/assets/25663501/a99e0730-4fd9-4139-86e8-8547031d89c0">
   - Basal cells: Suggested immune functions.
+    - ...
 - Stromal Cells: Diverse types including lymphocytes, macrophages, dendritic cells, mast cells, smooth muscle cells, fibroblasts, etc.
+  - ...
+ 
+Instead of visualizing markers of individual cell types in an individual dataset, we can visualize all of the cell types in the fallopian tube across the corpus with Gene Expression:
+- Starting in gene expression and exploring the fallopian tube cellular composition (and representation in the corpus)
+- <img width="1791" alt="image" src="https://github.com/MaximilianLombardo/hamondCxGDemo/assets/25663501/2fa6bdaf-3d72-4fc0-9f2b-68f6f062cb00">
+- Visualize markers that were reported in the paper across 
+- <img width="1792" alt="image" src="https://github.com/MaximilianLombardo/hamondCxGDemo/assets/25663501/4dcaf433-adf2-4deb-babf-6e417626097d">
+- Get more information about a desired cell type (ciliated epithelial cells):
+- <img width="1792" alt="image" src="https://github.com/MaximilianLombardo/hamondCxGDemo/assets/25663501/f6470b45-69aa-4da7-acff-d01cdab831a0">
+- Discover additional markers via the CellGuides sidebar in gene expression:
+- <img width="1792" alt="image" src="https://github.com/MaximilianLombardo/hamondCxGDemo/assets/25663501/fbb081dd-3f0f-4295-8e01-91e0544742d3">
 
 **Disease States & Impact on FT:**
 - Conditions influencing FT cell composition: hormonal fluctuations, menopause, ovarian cancer, surgeries (tubal ligation).
